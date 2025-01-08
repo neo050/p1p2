@@ -14,5 +14,5 @@ else
     document.querySelector("h1").innerHTML="draw!"
 
 }
-document.querySelector("img.img1").setAttribute("src","images/dice"+p1+".png");
-document.querySelector("img.img2").setAttribute("src","images/dice"+p2+".png");
+document.querySelector("img.img1").setAttribute("src","dice"+p1+".png");
+document.querySelector("img.img2").setAttribute("src","dice"+p2+".png");
